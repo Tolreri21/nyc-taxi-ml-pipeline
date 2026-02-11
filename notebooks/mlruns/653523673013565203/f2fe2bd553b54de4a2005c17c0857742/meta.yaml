@@ -1,0 +1,14 @@
+artifact_uri: /Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/notebooks/mlruns/653523673013565203/f2fe2bd553b54de4a2005c17c0857742/artifacts
+end_time: 1770841016021
+entry_point_name: ''
+experiment_id: '653523673013565203'
+lifecycle_stage: active
+run_id: f2fe2bd553b54de4a2005c17c0857742
+run_name: baseline model with mean strategy
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770841013774
+status: 3
+tags: []
+user_id: anatolijperederij

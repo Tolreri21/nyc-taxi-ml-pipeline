@@ -1,0 +1,10 @@
+artifact_location: /Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/notebooks/mlruns/687448275488771494/models/m-c52cba69b64d439494b8a6f3584a4f97/artifacts
+creation_timestamp: 1770841187248
+experiment_id: '687448275488771494'
+last_updated_timestamp: 1770841188855
+model_id: m-c52cba69b64d439494b8a6f3584a4f97
+model_type: null
+name: model
+source_run_id: cf4b13074def48c997d53b3475476bb2
+status: 2
+status_message: null

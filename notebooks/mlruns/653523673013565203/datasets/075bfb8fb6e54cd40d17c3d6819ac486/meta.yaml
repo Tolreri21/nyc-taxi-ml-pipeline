@@ -1,0 +1,17 @@
+digest: 96a37d19
+name: dataset
+profile: '{"num_rows": 10162, "num_elements": 142268}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "trip_distance", "required":
+  true}, {"type": "long", "name": "RatecodeID", "required": true}, {"type": "long",
+  "name": "PULocationID", "required": true}, {"type": "long", "name": "DOLocationID",
+  "required": true}, {"type": "long", "name": "payment_type", "required": true}, {"type":
+  "any", "name": "congestion_surcharge", "required": false}, {"type": "any", "name":
+  "airport_fee", "required": false}, {"type": "integer", "name": "Year", "required":
+  true}, {"type": "integer", "name": "Month", "required": true}, {"type": "integer",
+  "name": "Week", "required": true}, {"type": "integer", "name": "Day", "required":
+  true}, {"type": "integer", "name": "DayOfWeek", "required": true}, {"type": "double",
+  "name": "Hour", "required": true}, {"type": "double", "name": "Duration_minutes",
+  "required": true}]}'
+source: '{"tags": {"mlflow.user": "anatolijperederij", "mlflow.source.name": "/Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/.venv/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "NOTEBOOK"}}'
+source_type: code

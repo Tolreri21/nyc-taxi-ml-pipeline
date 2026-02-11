@@ -1,0 +1,39 @@
+artifact_path: /Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/notebooks/mlruns/1/models/m-71f264121d074d8a8d58257d1969abd6/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.9.0
+model_id: m-71f264121d074d8a8d58257d1969abd6
+model_size_bytes: 580
+model_uuid: m-71f264121d074d8a8d58257d1969abd6
+prompts: null
+run_id: a5ffc76cf9e24327bb78010a7b274398
+signature:
+  inputs: '[{"type": "double", "name": "trip_distance", "required": true}, {"type":
+    "long", "name": "RatecodeID", "required": true}, {"type": "long", "name": "PULocationID",
+    "required": true}, {"type": "long", "name": "DOLocationID", "required": true},
+    {"type": "long", "name": "payment_type", "required": true}, {"type": "any", "name":
+    "congestion_surcharge", "required": false}, {"type": "any", "name": "airport_fee",
+    "required": false}, {"type": "integer", "name": "Year", "required": true}, {"type":
+    "integer", "name": "Month", "required": true}, {"type": "integer", "name": "Week",
+    "required": true}, {"type": "integer", "name": "Day", "required": true}, {"type":
+    "integer", "name": "DayOfWeek", "required": true}, {"type": "double", "name":
+    "Hour", "required": true}, {"type": "double", "name": "Duration_minutes", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-02-11 20:15:08.656987'
