@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/mlruns/606807028486024896/ba896f27a7ae429f87890014653428b0/artifacts
+end_time: 1771017266719
+entry_point_name: ''
+experiment_id: '606807028486024896'
+lifecycle_stage: active
+run_id: ba896f27a7ae429f87890014653428b0
+run_name: Lasso with all features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771017266702
+status: 3
+tags: []
+user_id: anatolijperederij

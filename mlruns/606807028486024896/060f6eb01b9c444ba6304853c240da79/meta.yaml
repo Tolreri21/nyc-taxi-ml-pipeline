@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/mlruns/606807028486024896/060f6eb01b9c444ba6304853c240da79/artifacts
+end_time: 1771017353336
+entry_point_name: ''
+experiment_id: '606807028486024896'
+lifecycle_stage: active
+run_id: 060f6eb01b9c444ba6304853c240da79
+run_name: Ridge with all features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771017353325
+status: 3
+tags: []
+user_id: anatolijperederij

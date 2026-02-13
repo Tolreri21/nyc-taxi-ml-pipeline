@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/mlruns/606807028486024896/77d18c00441f476c9068e135c98056f0/artifacts
+end_time: 1771017354034
+entry_point_name: ''
+experiment_id: '606807028486024896'
+lifecycle_stage: active
+run_id: 77d18c00441f476c9068e135c98056f0
+run_name: HistGradientBoostingRegressor with all features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771017353338
+status: 3
+tags: []
+user_id: anatolijperederij

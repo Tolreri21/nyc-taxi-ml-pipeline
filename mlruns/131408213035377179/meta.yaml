@@ -1,0 +1,6 @@
+artifact_location: file:///Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/mlruns/131408213035377179
+creation_time: 1771016099159
+experiment_id: '131408213035377179'
+last_update_time: 1771016099159
+lifecycle_stage: active
+name: NYC-Taxi-LinearRegression

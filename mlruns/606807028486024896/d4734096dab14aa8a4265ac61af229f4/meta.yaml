@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/mlruns/606807028486024896/d4734096dab14aa8a4265ac61af229f4/artifacts
+end_time: 1771017337577
+entry_point_name: ''
+experiment_id: '606807028486024896'
+lifecycle_stage: active
+run_id: d4734096dab14aa8a4265ac61af229f4
+run_name: LinearRegression with all features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771017337560
+status: 3
+tags: []
+user_id: anatolijperederij

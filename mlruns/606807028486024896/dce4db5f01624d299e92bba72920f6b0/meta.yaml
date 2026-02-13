@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/anatolijperederij/PycharmProjects/nyc-taxi-ml-pipeline/mlruns/606807028486024896/dce4db5f01624d299e92bba72920f6b0/artifacts
+end_time: 1771017266700
+entry_point_name: ''
+experiment_id: '606807028486024896'
+lifecycle_stage: active
+run_id: dce4db5f01624d299e92bba72920f6b0
+run_name: RandomForestRegressor with all features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771017250705
+status: 3
+tags: []
+user_id: anatolijperederij
